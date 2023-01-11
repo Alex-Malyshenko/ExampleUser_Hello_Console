@@ -1,0 +1,15 @@
+C:\Users\PK\Documents\!GeekBrains\С#\bin\Debug\net6.0\С#.exe
+C:\Users\PK\Documents\!GeekBrains\С#\bin\Debug\net6.0\С#.deps.json
+C:\Users\PK\Documents\!GeekBrains\С#\bin\Debug\net6.0\С#.runtimeconfig.json
+C:\Users\PK\Documents\!GeekBrains\С#\bin\Debug\net6.0\С#.dll
+C:\Users\PK\Documents\!GeekBrains\С#\bin\Debug\net6.0\С#.pdb
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.csproj.AssemblyReference.cache
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.AssemblyInfoInputs.cache
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.AssemblyInfo.cs
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.csproj.CoreCompileInputs.cache
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.dll
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\refint\С#.dll
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.pdb
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\С#.genruntimeconfig.cache
+C:\Users\PK\Documents\!GeekBrains\С#\obj\Debug\net6.0\ref\С#.dll
